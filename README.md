@@ -1,4 +1,4 @@
-Spécialisation Opérationnelle - Sf #7 - Epreuve
+Spécialisation Opérationnelle - Sf session 7 - Epreuve
 ==================================
 
 ## Environnement Docker ##
